@@ -1,0 +1,1 @@
+2024-11-13 11:50:58 - INFO - Data quality checker scheduled to run daily at 04:00.
